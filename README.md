@@ -1,3 +1,3 @@
 # ShopbridgeApp
 
-Go to TestApplication->TestApplication->TestApplication.sln to open and run the project.
+Open TestApplication.sln to open and run the project.
